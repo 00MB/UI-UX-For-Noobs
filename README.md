@@ -1,6 +1,6 @@
-# UI-UX-Material
+# UI-UX-For-Noobs
 
-## Some tips and resources for designers
+## Some tips and resources for making nice looking stuff. Open to contributions!
 
 ### 1 - Fonts
 - Lato: Formal and good for \<p\> tags.
