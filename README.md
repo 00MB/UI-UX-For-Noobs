@@ -18,33 +18,33 @@
 
 ### 3 - Hex Colours  
 - **Common Colours**
-  - **Pure White**: #ffffff
-  - **Soft White**: #f8faff
-  - **Pure Black**: #000000
-  - **Soft Black**: #333333
+  - **Pure White**: `#ffffff` ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) 
+  - **Soft White**: `#f8faff` ![#f8faff](https://via.placeholder.com/15/f8faff/000000?text=+) 
+  - **Pure Black**: `#000000` ![#000000](https://via.placeholder.com/15/000000/000000?text=+) 
+  - **Soft Black**: `#333333` ![#333333](https://via.placeholder.com/15/333333/000000?text=+) 
   
 - **Companies**  
-  - **Twitter Blue**: #1da1f2  
-  - **Facebook Blue**: #4267b2  
-  - **Discord Old Blue**: #7289da  
-  - **Stripe Blue**: #008cdd
-  - **Shopify Green**: #96bf48  
-  - **Robinhood Green**: #78a175
+  - **Twitter Blue**: `#1da1f2` ![#1da1f2](https://via.placeholder.com/15/1da1f2/000000?text=+) 
+  - **Facebook Blue**: `#4267b2` ![#4267b2](https://via.placeholder.com/15/4267b2/000000?text=+) 
+  - **Discord Old Blue**: `#7289da` ![#7289da](https://via.placeholder.com/15/7289da/000000?text=+) 
+  - **Stripe Blue**: `#008cdd` ![#008cdd](https://via.placeholder.com/15/008cdd/000000?text=+) 
+  - **Shopify Green**: `#96bf48` ![#96bf48](https://via.placeholder.com/15/96bf48/000000?text=+) 
+  - **Robinhood Green**: `#78a175` ![#78a175](https://via.placeholder.com/15/78a175/000000?text=+) 
 
 - **Red**
-  - **Pure Red**: #ff0000  
-  - **Fun Red**: #e17a77  
-  - **Fun Orange**: #f4af78  
+  - **Pure Red**: `#ff0000` ![#ff0000](https://via.placeholder.com/15/ff0000/000000?text=+) 
+  - **Fun Red**: `#e17a77` ![#e17a77](https://via.placeholder.com/15/e17a77/000000?text=+) 
+  - **Fun Orange**: `#f4af78` ![#f4af78](https://via.placeholder.com/15/f4af78/000000?text=+) 
 
 - **Green**
-  - **Pure Green**: #008000  
-  - **Fun Green**: #85ec6b  
-  - **Neon Green**: #39ff14  
+  - **Pure Green**: `#008000` ![#008000](https://via.placeholder.com/15/008000/000000?text=+) 
+  - **Fun Green**: `#85ec6b` ![#85ec6b](https://via.placeholder.com/15/85ec6b/000000?text=+) 
+  - **Neon Green**: `#39ff14` ![#39ff14](https://via.placeholder.com/15/39ff14/000000?text=+) 
 
 - **Blue**
-  - **Pure Blue**: #0000ff  
-  - **Fun Blue**: #729fec  
-  - **Fun Purple**: #5900cc  
+  - **Pure Blue**: `#0000ff` ![#0000ff](https://via.placeholder.com/15/0000ff/000000?text=+) 
+  - **Fun Blue**: `#729fec` ![#729fec](https://via.placeholder.com/15/729fec/000000?text=+) 
+  - **Fun Purple**: `#5900cc` ![#5900cc](https://via.placeholder.com/15/5900cc/000000?text=+) 
 
 ### 4 - UI/UX Fundementals
 
