@@ -112,10 +112,10 @@
   - **Hero Image**: 16:9
   - **Paragraph Text Size**: 16px (21px for text heavy sites)
   - **Secondary Text Size**: 14px
-  - **Input Field Text Size**: >16px
-  - **Small Input/Buttons**: 28px
-  - **Medium Input/Buttons**: 37px
-  - **Large Input/Buttons**: 46px
+  - **Input Field Text Height**: >16px
+  - **Small Input/Buttons Height**: 28px
+  - **Medium Input/Buttons Height**: 37px
+  - **Large Input/Buttons Height**: 46px
  
 # 6 - Figma and Code Components   
 - **Figma Plugins**  
