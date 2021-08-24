@@ -60,16 +60,25 @@
 - **Consistency**: The design colours and feel should be similar throughout the whole user flow. Helps build trust and users remember your theme. No consintancy can be daunting and look like you stuck different projects togethor.
 
 ### 5 - Dimensions  
-- **Screen Sizes px (With Proportion of Users)**
-  - **Small Mobile**: W360 H640 (23%)
-  - **Average Laptop**: W1366 H768 (12%)
-  - **Large Desktop**: W1920 H1080 (7%)
-  - **Average Mobile**: W375 H667 (5%)
-  - **Average Desktop**: W1440 H900 (3%)
-  - **Large Mobile**: W720 H1280 (%3)
+- **Screen Sizes [WxH in px] (With Proportion of Users)**
+  - **Small Mobile**: 360x640 (23%)
+  - **Average Laptop**: 1366x768 (12%)
+  - **Large Desktop**: 1920x1080 (7%)
+  - **Average Mobile**: 375x667 (5%)
+  - **Average Desktop**: 1440x900 (3%)
+  - **Large Mobile**: 720x1280 (%3)
 - **Text/Component Dimensions**
-  - **NavBar Height**:64px
-  - **Font Size**:
-### 6 - Figma Components   
+  - **NavBar Height**: 64px
+  - 
+  - **Paragraph Text Size**: 16px (21px for text heavy sites)
+  - **Secondary Text Size**: 14px
+  - **Input Field Text Size**: >16px
+  - **Small Input/Buttons**: 28px
+  - **Medium Input/Buttons**: 37px
+  - **Large Input/Buttons**: 46px
+### 6 - Figma and Code Components   
 
 ### 7 - Other Resources    
+
+### Credit  
+
