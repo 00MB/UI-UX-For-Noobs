@@ -8,13 +8,19 @@
 - **[Montserrat](https://fonts.google.com/specimen/Montserrat)**: Bold and rounded, good for logos and headers.
 
 ### 2 - Vector/Grahpic Sites
-- **[getwaves.io](https://getwaves.io/)**: Get custom svg waves to paste and act as content dividers.  
-- **[haikei.app](https://haikei.app/)**: Custom svg objects like blobs, stars, waves etc. Creators of getwaves.io.
-- **[svgrepo.com](https://www.svgrepo.com/)**: 300,000 svg icons and vectors for commercial use.  
-- **[uifaces.co](https://uifaces.co/)**: Pictures of people for profile icons. Filter by age, gender etc.
-- **[bgjar.com](https://bgjar.com/)**: Cool custom svg's such as lines, waves for background. 
-- **[fontawsome.com](https://fontawesome.com/)**: Icons with simple html code ready to paste. 
+- **SVG Waves, Lines, Blobs etc**
+  - **[getwaves.io](https://getwaves.io/)**: Get custom svg waves to paste and act as content dividers.  
+  - **[haikei.app](https://haikei.app/)**: Custom svg objects like blobs, stars, waves etc. Creators of getwaves.io.
+  - **[bgjar.com](https://bgjar.com/)**: Cool custom svg's such as lines, waves for background. 
 
+- **Icons**
+  - **[svgrepo.com](https://www.svgrepo.com/)**: 300,000 svg icons and vectors for commercial use.  
+  - **[fontawsome.com](https://fontawesome.com/)**: Icons with simple html code ready to paste. 
+
+- **Placeholders**
+  - **[uifaces.co](https://uifaces.co/)**: Pictures of people for profile icons. Filter by age, gender etc. 
+  - **[placeholder.com](https://placeholder.com/)**: Easily link placeholder images online for custom sizes.
+  - **[loremipsum.io](https://loremipsum.io/)**: Quickly generate dummy text.
 
 ### 3 - Hex Colours  
 - **Common Colours**
