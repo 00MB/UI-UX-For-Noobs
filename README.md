@@ -4,12 +4,31 @@
 
 ### Contents  
 - **[1 - Fonts](#1---fonts)**
+ 
 - **[2 - Vector/Graphic Sites](#2---vectorgraphic-sites)**  
   - **SVG Waves, Lines, Blobs etc**
   - **Icons**  
   - **Placeholders**
+ 
 - **[3 - Hex Colours](#3---hex-colours)**
+  - **Common Colours**  
+  - **Companies**  
+  - **Red**  
+  - **Green**  
+  - **Blue** 
+ 
+- **[4 - UI/UX Fundamentals](#4---uiux-fundamentals)**  
+  - **Colour and Contrast**  
+  - **Visual Heirarchy**  
+  - **Complexity vs Simplicity**
+  - **Consistency**  
+  - **Scale**
 
+- **[5 - Dimensions](#5---dimensions)**
+  - **Screen Sizes**  
+  - **Text/Component Dimensions**
+
+- **[6 - Figma and Code Components]()**
 ### 1 - Fonts
 - **[DMSans](https://fonts.google.com/specimen/DM+Sans)**: Similar to Montserrat, good for large text such as heros.
 - **[Lato](https://fonts.google.com/specimen/Lato)**: Formal and good for small text.
@@ -60,7 +79,7 @@
   - **Fun Blue**: `#729fec` ![#729fec](https://via.placeholder.com/15/729fec/000000?text=+) 
   - **Fun Purple**: `#5900cc` ![#5900cc](https://via.placeholder.com/15/5900cc/000000?text=+) 
 
-### 4 - UI/UX Fundementals  
+### 4 - UI/UX Fundamentals  
 - **Color And Contrast**: The mix of different colours. No more than 3 different colours. Shades are nice, but important components should be easily visible.
 - **White Space**: The white space between components. White is nice, use it. Space out your components, but not too much. Keep an overall symmetry with your spacing.  
 
