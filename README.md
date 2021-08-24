@@ -134,6 +134,10 @@
   - **[Material Design Icons](https://www.figma.com/community/file/878585965681562011)**: Icons for material design.
 
 - **Code Components/Libraries**
+  - **[Bootstrap](https://getbootstrap.com/)**: HTML/CSS/React components and styling.
+  - **[Material UI](https://material-ui.com/)**: React components, look like Google's.
+  - **[Tailwind UI](https://tailwindui.com/)**: Professional components for HTML, React and Vue.
+  - **[Tailwind CSS](https://tailwindcss.com/)**: Easy and effective CSS styling.
 
 # 7 - Credit  
 
