@@ -16,7 +16,35 @@
 - **[fontawsome.com](https://fontawesome.com/)**: Icons with simple html code ready to paste. 
 
 
-### 3 - Hex Colours
+### 3 - Hex Colours  
+- **Common Colours**
+  - **Pure White**: #ffffff
+  - **Soft White**: #f8faff
+  - **Pure Black**: #000000
+  - **Soft Black**: #333333
+  
+- **Companies**  
+  - **Twitter Blue**: #1da1f2  
+  - **Facebook Blue**: #4267b2  
+  - **Discord Old Blue**: #7289da  
+  - **Stripe Blue**: #008cdd
+  - **Shopify Green**: #96bf48  
+  - **Robinhood Green**: #78a175
+
+- **Red**
+  - **Pure Red**: #ff0000  
+  - **Fun Red**: #e17a77  
+  - **Fun Orange**: #f4af78  
+
+- **Green**
+  - **Pure Green**: #008000  
+  - **Fun Green**: #85ec6b  
+  - **Neon Green**: #39ff14  
+
+- **Blue**
+  - **Pure Blue**: #0000ff  
+  - **Fun Blue**: #729fec  
+  - **Fun Purple**: #5900cc  
 
 ### 4 - UI/UX Fundementals
 
