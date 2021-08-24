@@ -4,7 +4,7 @@
 
 ### 1 - Fonts
 - **[DMSans](https://fonts.google.com/specimen/DM+Sans)**: Similar to Montserrat, good for large text such as heros.
-- **[Lato](https://fonts.google.com/specimen/Lato)**: Formal and good for \<p\> tags.
+- **[Lato](https://fonts.google.com/specimen/Lato)**: Formal and good for small text.
 - **[Montserrat](https://fonts.google.com/specimen/Montserrat)**: Bold and rounded, good for logos and headers.
 
 ### 2 - Vector/Grahpic Sites
@@ -52,7 +52,12 @@
   - **Fun Blue**: `#729fec` ![#729fec](https://via.placeholder.com/15/729fec/000000?text=+) 
   - **Fun Purple**: `#5900cc` ![#5900cc](https://via.placeholder.com/15/5900cc/000000?text=+) 
 
-### 4 - UI/UX Fundementals
+### 4 - UI/UX Fundementals  
+  - **Color And Contrast**: The mix of different colours. No more than 3 different colours. Shades are nice, but important components should be easily visible.
+  - **White Space**: The white space between components. White is nice, use it. Space out your components, but not too much. Keep an overall symmetry with your spacing.  
+  - **Visual Heirarchy**: The order in which your eyes input the site. For example looks at logo, then button then... Use scale, color and contrast to make important content stand out and be viewed first. Things such as hero, logo, any promotions and logo should be viewed first.
+  - **Complexity vs Simplicity**: Most of the time, less is better. Too much content can make your site cluttered and messy, especially on mobile devices. Your design should be clear and straight to the point, especially with important components writtent above.
+  - **Consistency**: 
 
 ### 5 - Dimensions  
 
