@@ -1,6 +1,6 @@
 # UI-UX-For-Noobs
 
-## Some tips and free resources for making nice looking stuff. Open to contributions!
+## [STAR] Some tips and free resources for making nice looking stuff. Open to contributions!
 
 ### Contents  
 - **[1 - Fonts](#1---fonts)**
