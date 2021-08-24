@@ -2,12 +2,20 @@
 
 ## Some tips and free resources for making nice looking stuff. Open to contributions!
 
+### Contents  
+- **[1 - Fonts](#1---fonts)**
+- **[2 - Vector/Graphic Sites](#2---vectorgraphic-sites)**  
+  - **SVG Waves, Lines, Blobs etc**
+  - **Icons**  
+  - **Placeholders**
+- **[3 - Hex Colours](#3---hex-colours)**
+
 ### 1 - Fonts
 - **[DMSans](https://fonts.google.com/specimen/DM+Sans)**: Similar to Montserrat, good for large text such as heros.
 - **[Lato](https://fonts.google.com/specimen/Lato)**: Formal and good for small text.
 - **[Montserrat](https://fonts.google.com/specimen/Montserrat)**: Bold and rounded, good for logos and headers.
 
-### 2 - Vector/Grahpic Sites
+### 2 - Vector/Graphic Sites
 - **SVG Waves, Lines, Blobs etc**
   - **[getwaves.io](https://getwaves.io/)**: Get custom svg waves to paste and act as content dividers.  
   - **[haikei.app](https://haikei.app/)**: Custom svg objects like blobs, stars, waves etc. Creators of getwaves.io.
