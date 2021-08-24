@@ -55,9 +55,14 @@
 ### 4 - UI/UX Fundementals  
 - **Color And Contrast**: The mix of different colours. No more than 3 different colours. Shades are nice, but important components should be easily visible.
 - **White Space**: The white space between components. White is nice, use it. Space out your components, but not too much. Keep an overall symmetry with your spacing.  
+
 - **Visual Heirarchy**: The order in which your eyes input the site. For example looks at logo, then button then... Use scale, color and contrast to make important content stand out and be viewed first. Things such as hero and logo should be viewed first.
+
 - **Complexity vs Simplicity**: Most of the time, less is better. Too much content can make your site cluttered and messy, especially on mobile devices. Your design should be clear and straight to the point, especially with important components writtent above.
-- **Consistency**: The design colours and feel should be similar throughout the whole user flow. Helps build trust and users remember your theme. No consintancy can be daunting and look like you stuck different projects togethor.
+
+- **Consistency**: The design colours and feel should be similar throughout the whole user flow. Helps build trust and users remember your theme. No consintancy can be daunting and look like you stuck different projects togethor.  
+
+- **Scale**: Large enough so older people can read your text. No more than 4 text sizes.
 
 ### 5 - Dimensions  
 - **Screen Sizes [WxH in px] (With Proportion of Users)**
@@ -67,15 +72,17 @@
   - **Average Mobile**: 375x667 (5%)
   - **Average Desktop**: 1440x900 (3%)
   - **Large Mobile**: 720x1280 (%3)
+ 
 - **Text/Component Dimensions**
   - **NavBar Height**: 64px
-  - 
+  - **Hero Image**: 16:9
   - **Paragraph Text Size**: 16px (21px for text heavy sites)
   - **Secondary Text Size**: 14px
   - **Input Field Text Size**: >16px
   - **Small Input/Buttons**: 28px
   - **Medium Input/Buttons**: 37px
   - **Large Input/Buttons**: 46px
+ 
 ### 6 - Figma and Code Components   
 
 ### 7 - Other Resources    
