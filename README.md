@@ -55,11 +55,21 @@
 ### 4 - UI/UX Fundementals  
 - **Color And Contrast**: The mix of different colours. No more than 3 different colours. Shades are nice, but important components should be easily visible.
 - **White Space**: The white space between components. White is nice, use it. Space out your components, but not too much. Keep an overall symmetry with your spacing.  
-- **Visual Heirarchy**: The order in which your eyes input the site. For example looks at logo, then button then... Use scale, color and contrast to make important content stand out and be viewed first. Things such as hero, logo, any promotions and logo should be viewed first.
+- **Visual Heirarchy**: The order in which your eyes input the site. For example looks at logo, then button then... Use scale, color and contrast to make important content stand out and be viewed first. Things such as hero and logo should be viewed first.
 - **Complexity vs Simplicity**: Most of the time, less is better. Too much content can make your site cluttered and messy, especially on mobile devices. Your design should be clear and straight to the point, especially with important components writtent above.
 - **Consistency**: The design colours and feel should be similar throughout the whole user flow. Helps build trust and users remember your theme. No consintancy can be daunting and look like you stuck different projects togethor.
 
 ### 5 - Dimensions  
--
+- **Screen Sizes px (With Proportion of Users)**
+  - **Small Mobile**: W360 H640 (23%)
+  - **Average Laptop**: W1366 H768 (12%)
+  - **Large Desktop**: W1920 H1080 (7%)
+  - **Average Mobile**: W375 H667 (5%)
+  - **Average Desktop**: W1440 H900 (3%)
+  - **Large Mobile**: W720 H1280 (%3)
+- **Text/Component Dimensions**
+  - **NavBar Height**:64px
+  - **Font Size**:
+### 6 - Figma Components   
 
-### 6 - Other Resources    
+### 7 - Other Resources    
