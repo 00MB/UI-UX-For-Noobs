@@ -26,9 +26,12 @@
 
 - **[5 - Dimensions](#5---dimensions)**
   - **Screen Sizes**  
-  - **Text/Component Dimensions**
+  - **Text/Component Dimensions**  
 
 - **[6 - Figma and Code Components](#6---figma-and-code-components)**
+  - **Figma Plugins**
+  - **Figma Components**  
+  - **Code Components/Libraries**  
 
 - **[7 - Credit](#7---credit)**
 
@@ -115,6 +118,22 @@
   - **Large Input/Buttons**: 46px
  
 # 6 - Figma and Code Components   
+- **Figma Plugins**  
+  - **[Contrast](https://www.figma.com/community/plugin/748533339900865323/Contrast)**: Color contrast checker.
+  - **[Unsplash](https://www.figma.com/community/plugin/738454987945972471/Unsplash)**: Free stock images.
+  - **[Figmotion](https://www.figma.com/community/plugin/733025261168520714/Figmotion)**: Figma animation tool.
+  - **[Iconify](https://www.figma.com/community/plugin/735098390272716381/Iconify)**: SVG icons.
+  - **[Mapsicle](https://www.figma.com/community/plugin/736458162635847353/Mapsicle)**: Create and edit custom maps.
+
+- **Figma Components**
+  - **[Lo-fi Wireframe Kit](https://www.figma.com/community/file/887892609124245416)**: For creating wireframes.
+  - **[Food Delivery App UI](https://www.figma.com/community/file/893381127703378146)**: A modern food delivery app UI kit.
+  - **[Pegasus Design System](https://www.figma.com/community/file/889142897767055377)**: Modern components kit.
+  - **[Apple IOS 15 UI Kit](https://www.figma.com/community/file/984106517828363349)**: Apple iOS UI kit.
+  - **[Marvie IOS Dark Theme](https://www.figma.com/community/file/827876058453173134)**: Apple dark theme UI kit.
+  - **[Material Design Icons](https://www.figma.com/community/file/878585965681562011)**: Icons for material design.
+
+- **Code Components/Libraries**
 
 # 7 - Credit  
 
