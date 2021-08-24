@@ -28,13 +28,17 @@
   - **Screen Sizes**  
   - **Text/Component Dimensions**
 
-- **[6 - Figma and Code Components]()**
-### 1 - Fonts
+- **[6 - Figma and Code Components](#6---figma-and-code-components)**
+
+- **[7 - Credit](#7---credit)**
+
+
+# 1 - Fonts
 - **[DMSans](https://fonts.google.com/specimen/DM+Sans)**: Similar to Montserrat, good for large text such as heros.
 - **[Lato](https://fonts.google.com/specimen/Lato)**: Formal and good for small text.
 - **[Montserrat](https://fonts.google.com/specimen/Montserrat)**: Bold and rounded, good for logos and headers.
 
-### 2 - Vector/Graphic Sites
+# 2 - Vector/Graphic Sites
 - **SVG Waves, Lines, Blobs etc**
   - **[getwaves.io](https://getwaves.io/)**: Get custom svg waves to paste and act as content dividers.  
   - **[haikei.app](https://haikei.app/)**: Custom svg objects like blobs, stars, waves etc. Creators of getwaves.io.
@@ -49,7 +53,7 @@
   - **[placeholder.com](https://placeholder.com/)**: Easily link placeholder images online for custom sizes.
   - **[loremipsum.io](https://loremipsum.io/)**: Quickly generate dummy text.
 
-### 3 - Hex Colours  
+# 3 - Hex Colours  
 - **Common Colours**
   - **Pure White**: `#ffffff` ![#ffffff](https://via.placeholder.com/15/ffffff/000000?text=+) 
   - **Soft White**: `#f8faff` ![#f8faff](https://via.placeholder.com/15/f8faff/000000?text=+) 
@@ -79,7 +83,7 @@
   - **Fun Blue**: `#729fec` ![#729fec](https://via.placeholder.com/15/729fec/000000?text=+) 
   - **Fun Purple**: `#5900cc` ![#5900cc](https://via.placeholder.com/15/5900cc/000000?text=+) 
 
-### 4 - UI/UX Fundamentals  
+# 4 - UI/UX Fundamentals  
 - **Color And Contrast**: The mix of different colours. No more than 3 different colours. Shades are nice, but important components should be easily visible.
 - **White Space**: The white space between components. White is nice, use it. Space out your components, but not too much. Keep an overall symmetry with your spacing.  
 
@@ -91,7 +95,7 @@
 
 - **Scale**: Large enough so older people can read your text. No more than 4 text sizes.
 
-### 5 - Dimensions  
+# 5 - Dimensions  
 - **Screen Sizes [WxH in px] (With Proportion of Users)**
   - **Small Mobile**: 360x640 (23%)
   - **Average Laptop**: 1366x768 (12%)
@@ -110,9 +114,15 @@
   - **Medium Input/Buttons**: 37px
   - **Large Input/Buttons**: 46px
  
-### 6 - Figma and Code Components   
+# 6 - Figma and Code Components   
 
-### 7 - Other Resources    
+# 7 - Credit  
 
-### Credit  
+- **[Size in Design, Nathan Curtis](https://medium.com/eightshapes-llc/size-in-design-systems-64f234aec519)**
+
+- **[Responsive Design, Daniel Schwarz](https://www.toptal.com/designers/responsive/responsive-design-best-practices)**
+
+- **[UI Design Crash Course, Gary Simon](https://www.youtube.com/watch?v=_Hp_dI0DzY4)**
+
+- **[UI UX Designer Roadmap, Togiberlin](https://github.com/togiberlin/ui-ux-designer-roadmap)**
 
